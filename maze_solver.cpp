@@ -5,7 +5,7 @@
 #include <unordered_map>
 #include <algorithm>
 using namespace std;
-
+//hello
 #define N 6  // Size of the maze (can be adjusted)
 
 // Global maze variable
